@@ -27,46 +27,6 @@ According to [https://github.com/Drassil/git-wiki/blob/gh-pages/_config.yml](htt
 - First, I fork the [https://github.com/Drassil/git-wiki/](https://github.com/Drassil/git-wiki/). 
 - Second，I add a folder with the name "blog" and add an **index.html** file within it. 
 
-The content of the index.html is given as follows:
+The content of the index.html is given as follows: [https://github.com/socrateslab/wiki/blob/gh-pages/blog/index.html](https://github.com/socrateslab/wiki/blob/gh-pages/blog/index.html)
 
 
-```java script
----
-title: Wiki Pages
-layout: git-wiki-default
----
-
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-    <div class="post-item">
-        <p class="author">
-            <span class="date">{{ post.date | date: "%-d %B %Y"}}</span>
-        </p>
-        <div class="git-wiki-content">
-            {{ post.excerpt }}
-
-            <a href="{{ post.url | relative_url }}">...Read all</a>
-        </div>
-    </div>
-    <hr>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-```
