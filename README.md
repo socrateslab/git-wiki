@@ -16,7 +16,7 @@ Platotalks is a collective work organized by our lab members. We share the infor
 - Yunjie Fei (2022)
 
 
-###  View the archive of Platotalks
+### Archive of Platotalks
 
 [https://computational-communication.com/wiki/blog/](https://computational-communication.com/wiki/blog/)
 
