@@ -25,7 +25,9 @@ According to [https://github.com/Drassil/git-wiki/blob/gh-pages/_config.yml](htt
 ## Solution
 
 - First, I fork the [https://github.com/Drassil/git-wiki/](https://github.com/Drassil/git-wiki/). 
-- Second，I add a folder with the name "blog" and add an index.html file within it. 
+- Second，I add a folder with the name "blog" and add an **index.html** file within it. 
+
+The content of the index.html is given as follows:
 
 
 ```html
