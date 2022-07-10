@@ -5,7 +5,7 @@ remote_theme: Drassil/git-wiki-theme@master
 description: Kindle the fire in your heart!
 show_downloads: true
 show_wiki_pages: true
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 1
 paginate: 3
 paginate_path: "assets/blog/page:num"
 blog_feature: true
