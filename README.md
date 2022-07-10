@@ -24,6 +24,3 @@ Platotalks is a collective work organized by our lab members. We share the infor
 ![image](https://user-images.githubusercontent.com/543384/178101007-f41a3ec4-ee71-4b43-a452-ee61cf6db4e5.png)
 
 
-## git-wiki
-
-[https://github.com/Drassil/git-wiki](https://github.com/Drassil/git-wiki)
