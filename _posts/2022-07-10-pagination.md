@@ -30,7 +30,7 @@ According to [https://github.com/Drassil/git-wiki/blob/gh-pages/_config.yml](htt
 The content of the index.html is given as follows:
 
 
-```html
+```java script
 ---
 title: Wiki Pages
 layout: git-wiki-default
