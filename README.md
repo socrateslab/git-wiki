@@ -2,9 +2,7 @@
 
 ## Socrateslab
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
-
-Github: https://github.com/socrateslab
+Welcome to the [Socrates Lab](https://github.com/socrateslab)! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
 
 ## Platotalks
 
