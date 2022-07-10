@@ -12,16 +12,6 @@ According to the reply of Drassil, to add a pagination could be a solution.
 
 Note that, there are both pages and posts on this wiki. And pagination seems to only wokr for posts.
 
-According to [https://github.com/Drassil/git-wiki/blob/gh-pages/_config.yml](https://github.com/Drassil/git-wiki/blob/gh-pages/_config.yml), I need to revise the config file as follows:
-
-```jekyll
- -
-    scope:
-      path: assets/blog
-    values:
-      layout: "git-wiki-blog"
-```
-
 ## Solution
 
 - First, I fork the [https://github.com/Drassil/git-wiki/](https://github.com/Drassil/git-wiki/). 
