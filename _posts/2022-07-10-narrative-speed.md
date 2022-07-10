@@ -1,4 +1,4 @@
-## The speed of stories: Semantic progression and narrative success.
+# The speed of stories: Semantic progression and narrative success.
 
 > Laurino Dos Santos, H., & Berger, J. (2022). The speed of stories: Semantic progression and narrative success. Journal of Experimental Psychology: General. Advance online publication. [https://psycnet.apa.org/doiLanding?doi=10.1037/xge0001171]( "https://psycnet.apa.org/doiLanding?doi=10.1037/xge0001171")
 
