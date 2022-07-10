@@ -1,7 +1,5 @@
 # Welcome to Socrateslab's Wiki！
 
-## Socrateslab
-
 Welcome to the [Socrates Lab](https://github.com/socrateslab)! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
 
 ## Platotalks
