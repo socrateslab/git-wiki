@@ -18,7 +18,7 @@ use_github_wiki: false
 use_prose_io: true
 service: github
 search_engine : "js"
-google_cse_token: 007197903287787072094:8rbvkeqo6qw
+google_cse_token: 59ea26407c3edb38e
 wiki_folder : "_posts"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 site_root: 
