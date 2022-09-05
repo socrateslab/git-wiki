@@ -6,7 +6,7 @@ description: Kindle the fire in your heart!
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 1
-paginate: 3
+paginate: 20
 paginate_path: "assets/blog/page:num"
 blog_feature: true
 show_wiki_posts: true
