@@ -1,0 +1,97 @@
+# 提高学术文章写作水平的十条建议 
+
+2013-02-25 16:22:12 
+
+迈克尔·芒格 著 吴万伟 译
+
+大学的许多老师和管理者都需要花费大量时间写作，但我们的写作水平往往差强人意。我怎么也搞不明白我们这个行当明明非常重视学术写作，为什么很少有人讲授如何写作呢？
+
+在大学工作的近30年中，我看到很多有才华的人因为不能写作或者没有写作而失败了。而有些能力平平的人（每天早上，我都能从镜子中看到这个人）就因为掌握了写作技能在学界混得还算不错。
+
+这开始于研究生院。从那时起，你要从上课转变为写作，开始几乎正好相反的转型。许多研究生在前两年上课期间是人人都羡慕和高看的明星，但突然间他们发现自己不再是主角了。相反，那些不在乎通过认真阅读参考书目中的每一页书来讨好教授的不起眼的学生突然给刊物投稿而且发表了，实现了从学生到专业学者的转变。
+
+其实，差别并不复杂，就是因为写作水平。
+
+瑞切尔·托尔（Rachel Toor）和本刊其他作家都谈过写一手好文章是多么艰难，确实如此。幸运的是，在很多学科写文章的标准非常低，你根本不需要写得很好。下面，我提出学术文章写作的10条建议，它们或许能帮助人们写得稍微好一些。
+
+1．写作是一种训练。只有通过练习才能写得更好、更快。如果你一年后要跑马拉松，你能够等待几个月后一下子跑26英里吗？不可能，你应该逐渐增加，每天都要跑。你或许可以先在平地上练习，慢慢在要求更高的、难度更大的地方跑。要成为作家，就要写作。不要等待需要写书稿或写可怕的外部评审报告了才开始写作。
+
+2．制定产出目标而不是输入目标。“我要学习三小时”是一种幻觉，而“我要写出双倍行距的三页文章”才是目标。写了三页后再做别的事，备课、上课、开会或别的什么。如果晚上你觉得还想写，当然好。如果没有写的意愿，至少你要写点什么。
+
+3．找到一种声音，不要仅仅满足于“发表”。詹姆斯·布坎南（James Buchanan）在1986年获得诺贝尔经济学奖。他向求职者提的问题之一是“10年后可能还有人阅读的你的作品是什么？100年后呢？”有人曾问过我这个问题，这确实让人感到恐惧，也令人尴尬，因为我们多数人不这样想。我们关心的是“发表”，就好像文章和观点或论证没有任何关系似的。矛盾的是，你越是竭力想“发表”，你就越发表不了什么东西。而当你真正对所写的东西感兴趣时，写作往往就变得更容易一些。
+
+4．给你自己时间。许多聪明人往往用善意的谎言欺骗自己，比如“我在最后时刻能做得最好。”瞧瞧，根本不是那回事。谁也不能在压力下有更好的表现。当然，你是聪明人，但如果你要撰写一个艰深的问题，怎么可能就在会议的前一天晚上思考一下就能做出重要贡献呢？作家坐在书桌前一连几个小时绞尽脑汁思考。他们提出问题，在喝酒或吃饭时与聪明人交谈，长时间散步，然后再一挥而就一个章节。不要担心写出来的东西不好，不能马上使用。你在写文章的时候可能有新的想法出现，而不仅仅是把思想写下来。那些几十年后仍然有人读的文章和书是由那些坐在书桌前的人写出来的，他们强迫自己把深刻的思想转变成文字然后再让这些文字引导出更多的思想。如果你给自己充足的时间，写作可能有神奇的魔力，因为你能把自己思想中特定时刻的想法的形象刻画出来，让在时间和空间上都非常遥远的地方的人看得到。
+
+5．还未写出来的著作都是最精彩的。没有写出来的东西越多，就越精彩。我们都遇见过那些口若悬河、令人钦佩的研究生或者老师。他们在酒吧或者办公室聚会上一手拿着啤酒瓶，另一手拿着香烟，旁若无人般高谈阔论。他们对什么问题都能回答，会告诉你他们要写什么东西，内容将多么精彩。但几年过去了，再问他“你在写什么书？”时，他们仍然给出同样的答案，200字的答案。从来没有变化，因为他们实际上除了吹嘘外，根本没有写任何东西。另一方面，你在研究某些东西，它在不断变化。你不喜欢刚刚写完的东西，也不敢肯定接下来将发生什么。当有人问“你在写什么？”时你张口结舌，不知怎么回答，因为这很难解释。那些拿着啤酒和香烟的自鸣得意的家伙呢？他们是装腔作势的人，实际上从来不写任何东西。通过几百瓶啤酒和几千支香烟，没完没了地重复他们的答案。不要被假象所迷惑，你才是胜利者。当你真正在写作，为了成功努力工作时，你会感到自己太愚蠢、水平太臭、疲惫不堪。如果你没有这样感觉，那说明你还不够努力。
+
+6．找一个谜语。描绘或者甚至设想你的著作是在猜谜。有很多有趣的谜语：甲和乙从同一个假设开始却得出了相反的结论，怎么回事？这里有三个似乎都不一样的问题，奇怪的是，它们是同一个问题伪装出来的，我来告诉你这是为什么。理论预测了某个结果，但我们观察到了其他内容。是理论错误还是我们忽略了某些因素？不要被这些模式所限制，但它们在把你的研究呈现给受众时非常有帮助，无论是演讲的听众还是文章读者。
+
+7．写作优先，有多余时间再做其他事。我碰巧是个喜欢起早的人，所以总是在早上写作。然后才上课、开会或做文字工作。你或许是“夜猫子”或在这两个极端之间的某个地方。不管怎样，要确保把精力最旺盛的时间留给写作。不要在忙完别的事后再写作，也不要安慰自己有了整块儿时间后再写作。先写作，有时间再做其他事。
+
+8．你的思想不一定都很深刻。许多人感到沮丧，因为他们在自己感兴趣的大问题上提不出有说服力的分析，因此什么也不写。其实，刚开始要从小事谈起。奇妙的是，你可能发现自己已经在登山途中走了很长的路，继续长时间埋头一步一步写下去。重新描述问题，准确定义术语，了解论证如何起作用等是很困难的，除非你实际上把它们写出来。
+
+9．你最深刻的思想往往是错误的，或至少不完全是对的。尤其是在问题很难的时候，准确地提出问题或疑问不是轻而易举的事。当刚入学的研究生说他们知道自己希望研究的东西或毕业论文要写的内容时，我总是暗自发笑。几乎所有最优秀的学者在研究和写作的切身经历中都经历过重大改变。他们都是在做中学，有时候了解到自己错了。
+
+10．　 一次次地编辑你的作品。文章写出来后请他人看看。大学的一大好处是我们大部分时间都在一起，我们都知道面对一张白板一个字也写出不来的恐怖。当你实在厌恶自己的写作时，不妨与同事或导师交换论文，相互批改。你需要克服可能遭到批评和回绝的恐惧。谁的初稿都不好，成功的学者和失败者的区别不一定是他们写得好，常常是这些人的编辑工作做得好。
+如果你写作时遇到麻烦，那说明你写得不够多。在我看来，一下子写很多页轻而易举，虽然我不可能成为作家，毕竟我文笔不好。但是，因为考虑了这些建议，并试图按这些建议来做，我已经达到了轻松对付自己和职业所需要的写作的地步。希望读者也能从中受益。
+
+作者简介：
+迈克尔·芒格（Michael C. Munger），自2000年以来一直担任杜克大学政治学系主任。
+译自：10 Tips on How to Write Less Badly By Michael C. Munger
+http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268/
+
+
+
+## 10 Tips on How to Write Less Badly
+
+By Michael C. Munger， September 6, 2010
+
+Most academics, including administrators, spend much of our time writing. But we aren't as good at it as we should be. I have never understood why our trade values, but rarely teaches, nonfiction writing.
+
+In my nearly 30 years at universities, I have seen a lot of very talented people fail because they couldn't, or didn't, write. And some much less talented people (I see one in the mirror every morning) have done OK because they learned how to write.
+
+It starts in graduate school. There is a real transformation, approaching an inversion, as people switch from taking courses to writing. Many of the graduate students who were stars in the classroom during the first two years—the people everyone admired and looked up to—suddenly aren't so stellar anymore. And a few of the marginal students—the ones who didn't care that much about pleasing the professors by reading every page of every assignment—are suddenly sending their own papers off to journals, getting published, and transforming themselves into professional scholars.
+
+The difference is not complicated. It's writing.
+
+Rachel Toor and other writers on these pages have talked about how hard it is to write well, and of course that's true. Fortunately, the standards of writing in most disciplines are so low that you don't need to write well. What I have tried to produce below are 10 tips on scholarly nonfiction writing that might help people write less badly.
+
+1. Writing is an exercise. You get better and faster with practice. If you were going to run a marathon a year from now, would you wait for months and then run 26 miles cold? No, you would build up slowly, running most days. You might start on the flats and work up to more demanding and difficult terrain. To become a writer, write. Don't wait for that book manuscript or that monster external-review report to work on your writing.
+
+2. Set goals based on output, not input. "I will work for three hours" is a delusion; "I will type three double-spaced pages" is a goal. After you write three pages, do something else. Prepare for class, teach, go to meetings, whatever. If later in the day you feel like writing some more, great. But if you don't, then at least you wrote something.
+
+3. Find a voice; don't just "get published." James Buchanan won a Nobel in economics in 1986. One of the questions he asks job candidates is: "What are you writing that will be read 10 years from now? What about 100 years from now?" Someone once asked me that question, and it is pretty intimidating. And embarrassing, because most of us don't think that way. We focus on "getting published" as if it had nothing to do with writing about ideas or arguments. Paradoxically, if all you are trying to do is "get published," you may not publish very much. It's easier to write when you're interested in what you're writing about.
+
+4. Give yourself time. Many smart people tell themselves pathetic lies like, "I do my best work at the last minute." Look: It's not true. No one works better under pressure. Sure, you are a smart person. But if you are writing about a profound problem, why would you think that you can make an important contribution off the top of your head in the middle of the night just before the conference?
+
+Writers sit at their desks for hours, wrestling with ideas. They ask questions, talk with other smart people over drinks or dinner, go on long walks. And then write a whole bunch more. Don't worry that what you write is not very good and isn't immediately usable. You get ideas when you write; you don't just write down ideas.
+
+The articles and books that will be read decades from now were written by men and women sitting at a desk and forcing themselves to translate profound ideas into words and then to let those words lead them to even more ideas. Writing can be magic, if you give yourself time, because you can produce in the mind of some other person, distant from you in space or even time, an image of the ideas that exist in only your mind at this one instant.
+
+5. Everyone's unwritten work is brilliant. And the more unwritten it is, the more brilliant it is. We have all met those glib, intimidating graduate students or faculty members. They are at their most dangerous holding a beer in one hand and a cigarette in the other, in some bar or at an office party. They have all the answers. They can tell you just what they will write about, and how great it will be.
+
+Years pass, and they still have the same pat, 200-word answer to "What are you working on?" It never changes, because they are not actually working on anything, except that one little act.
+
+You, on the other hand, actually are working on something, and it keeps evolving. You don't like the section you just finished, and you are not sure what will happen next. When someone asks, "What are you working on?," you stumble, because it is hard to explain. The smug guy with the beer and the cigarette? He's a poseur and never actually writes anything. So he can practice his pat little answer endlessly, through hundreds of beers and thousands of cigarettes. Don't be fooled: You are the winner here. When you are actually writing, and working as hard as you should be if you want to succeed, you will feel inadequate, stupid, and tired. If you don't feel like that, then you aren't working hard enough.
+
+6. Pick a puzzle. Portray, or even conceive, of your work as an answer to a puzzle. There are many interesting types of puzzles:
+
+"X and Y start with same assumptions but reach opposing conclusions. How?"
+"Here are three problems that all seem different. Surprisingly, all are the same problem, in disguise. I'll tell you why."
+"Theory predicts [something]. But we observe [something else]. Is the theory wrong, or is there some other factor we have left out?"
+Don't stick too closely to those formulas, but they are helpful in presenting your work to an audience, whether that audience is composed of listeners at a lecture or readers of an article.
+
+7. Write, then squeeze the other things in. Put your writing ahead of your other work. I happen to be a "morning person," so I write early in the day. Then I spend the rest of my day teaching, having meetings, or doing paperwork. You may be a "night person" or something in between. Just make sure you get in the habit of reserving your most productive time for writing. Don't do it as an afterthought or tell yourself you will write when you get a big block of time. Squeeze the other things in; the writing comes first.
+
+8. Not all of your thoughts are profound. Many people get frustrated because they can't get an analytical purchase on the big questions that interest them. Then they don't write at all. So start small. The wonderful thing is that you may find that you have traveled quite a long way up a mountain, just by keeping your head down and putting one writing foot ahead of the other for a long time. It is hard to refine your questions, define your terms precisely, or know just how your argument will work until you have actually written it all down.
+
+9. Your most profound thoughts are often wrong. Or, at least, they are not completely correct. Precision in asking your question, or posing your puzzle, will not come easily if the question is hard.
+
+I always laugh to myself when new graduate students think they know what they want to work on and what they will write about for their dissertations. Nearly all of the best scholars are profoundly changed by their experiences in doing research and writing about it. They learn by doing, and sometimes what they learn is that they were wrong.
+
+10. Edit your work, over and over. Have other people look at it. One of the great advantages of academe is that we are mostly all in this together, and we all know the terrors of that blinking cursor on a blank background. Exchange papers with peers or a mentor, and when you are sick of your own writing, reciprocate by reading their work. You need to get over a fear of criticism or rejection. Nobody's first drafts are good. The difference between a successful scholar and a failure need not be better writing. It is often more editing.
+
+If you have trouble writing, then you just haven't written enough. Writing lots of pages has always been pretty easy for me. I could never get a job being only a writer, though, because I still don't write well. But by thinking about these tips, and trying to follow them myself, I have gotten to the point where I can make writing work for me and my career.
+
+Michael C. Munger is chairman of political science at Duke University, a position he has held since 2000.
+
