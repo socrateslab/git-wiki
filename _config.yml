@@ -20,8 +20,9 @@ service: github
 search_engine : "js"
 google_cse_token: 59ea26407c3edb38e
 wiki_folder : "_posts"
-permalink: /blog/posts/:year/:month/:day/:title:output_ext
+permalink: /posts/:year/:month/:day/:title:output_ext
 site_root: 
+
 
 #
 # Jekyll
