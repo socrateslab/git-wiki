@@ -7,7 +7,7 @@ show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 1
 paginate: 20
-paginate_path: "assets/blog/page:num"
+paginate_path: "blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
@@ -19,7 +19,7 @@ use_prose_io: true
 service: github
 search_engine : "js"
 google_cse_token: 59ea26407c3edb38e
-wiki_folder : "_posts"
+wiki_folder : "wiki"
 permalink: /posts/:year/:month/:day/:title:output_ext
 site_root: 
 
