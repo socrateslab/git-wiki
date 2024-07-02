@@ -5,7 +5,7 @@ Welcome to the [Socrates Lab](https://github.com/socrateslab)! We are a small re
 
 ### Archive of the Wiki
 
-[https://socrateslab.github.io/wiki/blog/](https://socrateslab.github.io/wiki/blog/)
+[https://socrateslab.github.io/wiki/assets/blog/](https://socrateslab.github.io/wiki/assets/blog/)
 
 
 
